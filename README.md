@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yash-24-03/yash-24-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | SQL 💻 | Excel 📈 | Business Analytics 🚀
 
-Here are some ideas to get you started:
+I am a Data Analyst focused on transforming raw data into actionable business insights.  
+I enjoy working with structured datasets, identifying patterns, and solving real-world business problems using analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Skills & Tools
+
+- SQL (Joins, GROUP BY, HAVING, Subqueries, Window Functions)
+- Microsoft Excel (Pivot Tables, XLOOKUP, Data Cleaning)
+- Revenue & Retention Analysis
+- KPI Tracking & Business Metrics
+- Cohort & Churn Analysis
+- MySQL | Google Sheets | Power BI
+
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/yashpathania
+- 📧 Email: your.email@gmail.com
