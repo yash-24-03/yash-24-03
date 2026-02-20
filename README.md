@@ -36,7 +36,7 @@ I enjoy breaking down complex business problems into measurable metrics and solv
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/yashpathania](https://linkedin.com/in/yashpathania)  
-- 📧 Email: your.email@gmail.com  
+- 📧 Email: yashwillbe@gmail.com  
 
 ---
 
